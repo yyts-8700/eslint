@@ -1,0 +1,28 @@
+{
+  "name": "@fe/eslint-config-vue",
+  "version": "1.2.0",
+  "description": "vue项目代码规范配置。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.yupaopao.com:fe/infrastructure/eslint-config-vue.git"
+  },
+  "keywords": [
+    "eslint-config-eslint",
+    "eslint",
+    "vue"
+  ],
+  "dependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.11.1",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-html": "^5.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-vue-libs": "^3.0.0"
+  },
+  "author": "Peter",
+  "license": "ISC"
+}
