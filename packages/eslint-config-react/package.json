@@ -1,6 +1,6 @@
 {
   "name": "@fe/eslint-config-react",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "react项目eslint配置。",
   "main": "index.js",
   "scripts": {
