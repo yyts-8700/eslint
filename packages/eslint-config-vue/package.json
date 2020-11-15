@@ -1,7 +1,7 @@
 {
   "name": "@fe/eslint-config-vue",
   "version": "0.0.2",
-  "description": "vue项目代码规范配置。",
+  "description": "vue项目代码规范配置",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,5 +25,5 @@
   },
   "author": "Peter",
   "license": "ISC",
-  "gitHead": "914ae9a2c1549750229f717adc84fa720380bdab"
+  "gitHead": "e62f1de5703b9b902155a4f8f578d15dd3381b36"
 }
