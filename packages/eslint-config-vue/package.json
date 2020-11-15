@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:yyts-8700/eslint.git"
   },
   "keywords": [
     "eslint-config-eslint",
@@ -24,5 +24,6 @@
     "eslint-plugin-vue-libs": "^3.0.0"
   },
   "author": "Peter",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "914ae9a2c1549750229f717adc84fa720380bdab"
 }
