@@ -1,6 +1,6 @@
 {
   "name": "@fe/eslint-config-vue",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "vue项目代码规范配置",
   "main": "index.js",
   "scripts": {
