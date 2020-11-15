@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.yupaopao.com:fe/infrastructure/eslint-config-vue.git"
+    "url": ""
   },
   "keywords": [
     "eslint-config-eslint",

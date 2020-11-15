@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.yupaopao.com:fe/infrastructure/eslint-config-react.git"
+    "url": ""
   },
   "keywords": [
     "eslint-config-react",
